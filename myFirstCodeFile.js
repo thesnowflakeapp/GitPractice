@@ -1,9 +1,9 @@
 var dmll = "Started today";
-
 var journal = [];
-
-jounral.push(dm11);
-
 var name = "catherine";
-
 var nameOfUser = "Nathan";
+
+journal.push(dm11);
+journal.push(name);
+journal.push(nameOfUser);
+
